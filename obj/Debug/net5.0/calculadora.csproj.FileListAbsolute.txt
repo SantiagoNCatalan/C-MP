@@ -1,0 +1,16 @@
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\bin\Debug\net5.0\calculadora.exe
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\bin\Debug\net5.0\calculadora.deps.json
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.json
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.dev.json
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\bin\Debug\net5.0\calculadora.dll
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\bin\Debug\net5.0\ref\calculadora.dll
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\bin\Debug\net5.0\calculadora.pdb
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\obj\Debug\net5.0\calculadora.csproj.AssemblyReference.cache
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\obj\Debug\net5.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfoInputs.cache
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfo.cs
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\obj\Debug\net5.0\calculadora.csproj.CoreCompileInputs.cache
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\obj\Debug\net5.0\calculadora.dll
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\obj\Debug\net5.0\ref\calculadora.dll
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\obj\Debug\net5.0\calculadora.pdb
+D:\Escritorio\Curso_C#_Nivel_1\calculadora\obj\Debug\net5.0\calculadora.genruntimeconfig.cache

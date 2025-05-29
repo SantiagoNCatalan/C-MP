@@ -1,0 +1,22 @@
+# Compilación
+bin/
+obj/
+
+# Archivos de Visual Studio / Rider
+.vs/
+*.user
+*.suo
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Configuración local de entorno
+*.env
